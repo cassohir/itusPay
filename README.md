@@ -18,7 +18,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="ituspay" src=".github/project.png" width="100%">
+  <img alt="ituspay" src="./public/itusPay.jpeg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
+O itusPay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
 
 ## 🔖 Layout
 
@@ -46,4 +46,5 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by <code><a href="https://instagram.com/cassio_izidorio"> cassio_izidorio </a></code>
+
 # itusPay
